@@ -18,3 +18,4 @@ let name = "Gazi Taoshif"
 let greeting = "Welcome to my website, "
 welcomeEl.innerText = greeting + name
 //console.log(welcomeEl.innerText = greeting + name)
+welcomeEl.innerText = welcomeEl.innerText + "👋"
