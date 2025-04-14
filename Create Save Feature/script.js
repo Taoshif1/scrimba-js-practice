@@ -10,9 +10,12 @@ function increment() {
 
 function save() {
     // 2. Create a variable that contains both the count and the dash separator, i.e. "12 - "
-    let countStr = count + " - "
+    let countStr = " " + count + "  -  "
     // 3. Render the variable in the saveEl using innerText
     saveEl.textContent += countStr
+    // 4. Also clear the countEl (set it to 0)
+    countEl.textContent = 0
+    count = 0
     // NB: Make sure to not delete the existing content of the paragraph
     console.log(count)
 }
