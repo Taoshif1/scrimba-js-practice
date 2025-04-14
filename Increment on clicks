@@ -1,0 +1,37 @@
+HTML-
+<html>
+    <head>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <h1>People entered:</h1>
+        <h2 id="count-el">0</h2>
+        <button id="increment-btn" onclick="increment()">INCREMENT</button>
+        <script src="index.js"></script>
+    </body>
+</html>
+________________________________________________
+// Solution 1-
+// intialize the count as 0
+let count = 0
+// listen for clicks on the increment button
+let button1 = document.getElementById("increment-btn")
+let inc = document.getElementById("count-el")
+// increment the count variable when the button is clicked (log it out)
+button1.addEventListener("click", function(){
+    count++
+    console.log(count)
+    inc.textContent = count
+})
+// change the count-el in the HTML to reflect the new count
+------------------------------------------------------------
+// Solution 2-
+
+let count = 0
+let inc = document.getElementById("count-el")
+
+function increment() {
+    count++
+    console.log(count)
+    inc.textContent = count
+}
