@@ -1,5 +1,6 @@
 let num1 = prompt("Enter first number")
 let num2 = prompt("Enter second number")
+let sumEl = document.getElementById("sum-el")
 document.getElementById("num1-el").textContent = num1
 document.getElementById("num2-el").textContent = num2
 
@@ -12,35 +13,32 @@ document.getElementById("num2-el").textContent = num2
 
 function add(){
     let sum = parseInt(num1) + parseInt(num2)
-    document.getElementById("sum-el").textContent = "Sum: " + sum
-    document.getElementById("sum-el").style.color = "blue"
+    sumEl.textContent = "Sum: " + sum
+    sumEl.style.color = "blue"
 }
-
 function sub(){
     if(num1 > num2){
         let sub = parseInt(num1) - parseInt(num2)
-    document.getElementById("sum-el").innerText = `Subtraction: ${sub}`
-        document.getElementById("sum-el").style.color = "blue"
+    sumEl.innerText = `Subtraction: ${sub}`
+        sumEl.style.color = "blue"
     }else{
         let sub = parseInt(num2) - parseInt(num1) 
-        document.getElementById("sum-el").innerText = `Subtraction: ${sub}`
-        document.getElementById("sum-el").style.color = "blue"
+        sumEl.innerText = `Subtraction: ${sub}`
+        sumEl.style.color = "blue"
     }
 }    
-
 function div(){
     if(num1 > num2){
         let div = parseInt(num1) / parseInt(num2)
-        document.getElementById("sum-el").innerText = `Division: ${div}`
+        sumEl.innerText = `Division: ${div}`
     }else{
         let div = parseInt(num2) / parseInt(num1) 
-        document.getElementById("sum-el").innerText = `Division: ${div}`
-        document.getElementById("sum-el").style.color = "blue"
+        sumEl.innerText = `Division: ${div}`
+        sumEl.style.color = "blue"
     }
 }
-
 function mul(){
     let mul = parseInt(num1) * parseInt(num2)
-    document.getElementById("sum-el").innerText = `Multiplication: ${mul}`
-    document.getElementById("sum-el").style.color = "blue"
+    sumEl.innerText = `Multiplication: ${mul}`
+    sumEl.style.color = "blue"
 }
