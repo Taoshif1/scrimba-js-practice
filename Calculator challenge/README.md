@@ -1,4 +1,7 @@
 # Calculator challenge
 <hr>
+
 ## SS
-![image](https://github.com/user-attachments/assets/a4addff7-1ca1-4964-b924-2c2bf4ec97c6)
+
+![image](https://github.com/user-attachments/assets/88583d41-aadd-4493-8d03-ce3916b39a47)
+
