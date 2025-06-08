@@ -1,9 +1,9 @@
-# Scrimba JavaScript Practice 🧠💻
+# Scrimba JavaScript Practice💻
 [![Status: Learning Completed (for now!)](https://img.shields.io/badge/Status-Learning%20Completed%20(for%20now!)-brightgreen.svg?style=for-the-badge)](https://github.com/Taoshif1/LearningTS)
 
 Welcome to my **Scrimba JavaScript Practice Repo** — a collection of exercises, small projects and problem-solving files completed during my **JavaScript revision journey** using [Scrimba](https://scrimba.com/).
 
-> ✅ This is my **second-time revision** of JavaScript — the first one was in my repo: [LearningJS](https://github.com/Taoshif1/Learning-JavaScript).  
+> ✅ This is my **second-time revision** of JavaScript — the first one was in my repo: [LearningJS](https://github.com/Taoshif1/LearningJS).  
 > ✅ This repo focuses on **polishing**, **practicing** and **maintaining international coding standards**.
 
 ---
@@ -23,7 +23,7 @@ Each folder contains exercises organized by topic, such as:
 - `Reassigning and incrementing` — Exercise 3  
 - `Write your first function` — Exercise 5  
 - `Render a welcome message` — Exercise 10  
-- `Calculator challenge`, `on-Click`, `Create Save Feature`, and more
+- `Calculator challenge`, `on-Click`, `Create Save Feature` and more
 
 ✅ All code is written by me and uses modern JavaScript syntax (ES6+).
 
@@ -39,7 +39,8 @@ Each folder contains exercises organized by topic, such as:
 
 ---
 ## 🎯 The Objective:
-Knowledge is one thing; fluency is another. The goal of this repository was to engage in deliberate practice to:
+
+**Knowledge is one thing, fluency is another.** The goal of this repository was to engage in deliberate practice to:
 
 > **Solidify Core Concepts:** Deepen my understanding of functions, DOM manipulation and event handling.
 > **Improve Problem-Solving:** Tackle a variety of challenges to build confidence and speed.
@@ -68,9 +69,9 @@ but this time with **advanced concepts** in mind:
 
 ## 💬 Final Words
 
-This repo is not just a bunch of exercises — it’s a **reflection of consistency, commitment** and the drive to grow beyond the basics.  
+This repo is not just a bunch of exercises — it’s a **reflection of consistency, commitment** and **the drive to grow beyond.** 
 
-The grind never stops. And neither do I.  
+**The grind never stops. And neither do I.**  
 **One function, one challenge, one breakthrough at a time.**
 
 ---
