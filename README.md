@@ -3,15 +3,15 @@
 
 Welcome to my **Scrimba JavaScript Practice Repo** — a collection of exercises, small projects and problem-solving files completed during my **JavaScript revision journey** using [Scrimba](https://scrimba.com/).
 
-> ✅ This is my **second-time revision** of JavaScript — the first one was in my repo: [LearningJS](https://github.com/Taoshif1/LearningJS).  
-> ✅ This repo focuses on **polishing**, **practicing** and **maintaining international coding standards**.
+- ✅ This is my **second-time revision** of JavaScript — the first one was in my repo: [LearningJS](https://github.com/Taoshif1/LearningJS).  
+- ✅ This repo focuses on **polishing**, **practicing** and **maintaining international coding standards**.
 
 ---
 
 ## 📚 Platform: [Scrimba - Learn JavaScript for Free](https://scrimba.com)
 
-> Scrimba is a free interactive coding platform where I practiced hands-on challenges while following their structured JavaScript course, there is a paid version too.  
-> I completed every challenge, rewrote cleaner code and maintained a neat repo structure — as a **quality-driven developer**.
+- Scrimba is a free interactive coding platform where I practiced hands-on challenges while following their structured JavaScript course, there is a paid version too.  
+- I completed every challenge, rewrote cleaner code and maintained a neat repo structure — as a **quality-driven developer**.
 
 ---
 
@@ -76,5 +76,5 @@ This repo is not just a bunch of exercises — it’s a **reflection of consiste
 
 ---
 
-##**Continuously sharpening the fundamentals to build better and more complex applications.**
+# **Continuously sharpening the fundamentals to build better and more complex applications.**
 
