@@ -69,10 +69,10 @@ but this time with **advanced concepts** in mind:
 
 ## 💬 Final Words
 
-This repo is not just a bunch of exercises — it’s a **reflection of consistency, commitment** and **the drive to grow beyond.** 
+> This repo is not just a bunch of exercises — it’s a **reflection of consistency, commitment** and **the drive to grow beyond.** 
 
-**The grind never stops. And neither do I.**  
-**One function, one challenge, one breakthrough at a time.**
+- **The grind never stops. And neither do I.**  
+- **One function, one challenge, one breakthrough at a time.**
 
 ---
 
