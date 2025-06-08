@@ -42,9 +42,9 @@ Each folder contains exercises organized by topic, such as:
 
 **Knowledge is one thing, fluency is another.** The goal of this repository was to engage in deliberate practice to:
 
-> **Solidify Core Concepts:** Deepen my understanding of functions, DOM manipulation and event handling.
-> **Improve Problem-Solving:** Tackle a variety of challenges to build confidence and speed.
-> **Write Cleaner Code:** Focus on writing efficient, readable and maintainable JavaScript.
+- **Solidify Core Concepts:** Deepen my understanding of functions, DOM manipulation and event handling.
+- **Improve Problem-Solving:** Tackle a variety of challenges to build confidence and speed.
+- **Write Cleaner Code:** Focus on writing efficient, readable and maintainable JavaScript.
 
 ---
 
@@ -76,5 +76,5 @@ This repo is not just a bunch of exercises — it’s a **reflection of consiste
 
 ---
 
-**##Continuously sharpening the fundamentals to build better and more complex applications.**
+##**Continuously sharpening the fundamentals to build better and more complex applications.**
 
